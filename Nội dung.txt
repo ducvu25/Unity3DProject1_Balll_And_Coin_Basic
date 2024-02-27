@@ -1,0 +1,8 @@
+- Sử dụng hàm LookAt để quan sát vật
+- Sử dụng Collider để check va chạm 
+- Sử dụng Rotate để xoay vật
+- Sử dụng SceneManager để quản lý scene
+- Sử dụng IEnumerator để spwan vật
+- Tạo hàm random theo tỉ lệ
+- Ôn tập kiểu list, array
+- Sử dụng TextMeshProUI
